@@ -1,0 +1,5 @@
+HNSW is a graph-based indexing algorithm for approximate nearest neighbor search.
+Embeddings convert text into numerical vectors.
+Vector databases store high-dimensional embeddings efficiently.
+RAG systems retrieve relevant chunks before generation.
+Cosine similarity is commonly used for vector search.
